@@ -4,5 +4,8 @@ langchain-groq
 langchain_huggingface 
 langchain_community
 python-dotenv
-
+langserve 
+fastapi
+uvicorn
+sse_starlette
 -e .
