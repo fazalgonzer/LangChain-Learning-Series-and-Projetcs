@@ -8,4 +8,8 @@ langserve
 fastapi
 uvicorn
 sse_starlette
+ipykernel
+beautifulsoup4
+chromadb
+pyproject-toml
 -e .
