@@ -12,4 +12,6 @@ ipykernel
 beautifulsoup4
 chromadb
 pyproject-toml
+arxiv
+wikipedia
 -e .
